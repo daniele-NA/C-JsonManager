@@ -1,0 +1,3 @@
+C:/Users/cresc/CLionProjects/JsonManager/cmake-build-debug/CMakeFiles/JsonManager.dir
+C:/Users/cresc/CLionProjects/JsonManager/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cresc/CLionProjects/JsonManager/cmake-build-debug/CMakeFiles/rebuild_cache.dir
