@@ -8,4 +8,7 @@ Challenging implementation of a panel that allows the complete and logical manag
  }
 All modifiable via the JsonParamFeatures class
 
+## N.B
+Attached is a test.json file
+
 ![screen c](https://github.com/user-attachments/assets/e2067800-d9eb-47ca-815a-3cafe30299fb)
